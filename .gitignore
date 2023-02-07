@@ -133,3 +133,6 @@ dmypy.json
 
 # Exclude configuration files
 config.py
+
+# ignore dataset csv
+tracks_features.csv
