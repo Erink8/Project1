@@ -134,5 +134,10 @@ dmypy.json
 # Exclude configuration files
 config.py
 
+<<<<<<< HEAD
 # exclude data set
 tracks_features.csv
+=======
+# ignore dataset csv
+tracks_features.csv
+>>>>>>> f6905f9268486321043a63069d7358ca583f837b
