@@ -6,7 +6,7 @@ In this project we looked at over 1.2 million songs from Spotify to determine wh
 
 ## Technologies Used
 
-In order to obtain the data, we needed we used Python and Pandas. We also had to pull in the dependencies matplotlib, scipy and numpy. We used matplotlib for our visuals.
+In order to obtain the data we needed we used Python and Pandas. We also had to pull in the dependencies matplotlib, scipy and numpy. We used matplotlib for our visuals.
 
 ## Contributors
 
