@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project we looked at over 1.2 million songs from Spotify to determine what factors make us want to dance to songs. In the dataset we obtained from Kaggle, each song had a ranking for danceability from 0 to 1. Along with the danceability it had rankings for other factors of how the song was constructed. Our goal was to use these factors to determine which ones had the greatest impact on the songs danceability, specifically looking at the song’s energy, tempo, duration and release year. 
+In this project we looked at over 1.2 million songs from Spotify to determine what factors make songs danceable. In the dataset we obtained from Kaggle, each song had a ranking for danceability from 0 to 1. Along with the danceability it had rankings for other factors of how the song was constructed. Our goal was to use these factors to determine which ones had the greatest impact on the songs danceability, specifically looking at the song’s energy, tempo, duration and release year. 
 
 ## Technologies Used
 
